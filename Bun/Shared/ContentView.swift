@@ -9,7 +9,11 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
+<<<<<<< Updated upstream
         Text("Hello, world!")
+=======
+        Text("Hello")
+>>>>>>> Stashed changes
             .padding()
     }
 }
